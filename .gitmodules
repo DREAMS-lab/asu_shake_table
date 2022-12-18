@@ -1,0 +1,3 @@
+[submodule "shakebot_perception"]
+	path = shakebot_perception
+	url = https://github.com/DREAMS-lab/shakebot_perception
