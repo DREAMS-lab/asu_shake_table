@@ -15,10 +15,10 @@ git clone --recurse-submodules https://DREAMS-lab/asu_shake_table.git
 ```
 
 ### Mechanical Hardware
-Most of the mechanical parts and components are off-the-shelf (see below [Purchased Items](##Purchased-Items)), and only a few parts are 3D-printed. The 3D-printed parts can be found in the Shakebot CAD mode. We use Fusion 360. The Shakebot CAD is open-sourced via this link: https://a360.co/3cjvqjz. We also include the assembly file in our Github repository, `asu_shake_table/CAD/full_assembly_v40.zip`
+Most of the mechanical parts and components are off-the-shelf (see below [Purchased Items](#purchased-items)), and only a few parts are 3D-printed. The 3D-printed parts can be found in the Shakebot CAD mode. We use Fusion 360. The Shakebot CAD is open-sourced via this link: https://a360.co/3cjvqjz. We also include the assembly file in our Github repository, `asu_shake_table/CAD/full_assembly_v40.zip`
 ![Shakebot](docs/CAD.png)
 ### Electric Hardware
-The Shakebot consists of perception and motion modules, which are included in this repository as submodules. The electric hardware can be found in their readme files.
+The Shakebot consists of perception and motion modules, which are included in this repository as submodules. The electric hardware setup can be found in their readme files.
 ![Shakebot](docs/BirdEyeView.png)
 
 Details about our the mechanical and electric hardard can be found in our paper, [Shakebot: A Low-cost, Open-source Shake Table for Ground Motion Seismic Studies](https://arxiv.org/abs/2212.10763).
